@@ -1,0 +1,13 @@
+.product{
+    display: flex;
+    margin: 5px;
+    border-bottom: 1px solid lightgray;   
+}
+.product-info{
+    
+    margin-left: 10px;
+    
+}
+.product-name{
+    color:#6047EC;
+}
