@@ -11,3 +11,13 @@
 .product-name{
     color:#6047EC;
 }
+
+.btn-cart{
+    background-color: goldenrod;
+    width: 150px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
